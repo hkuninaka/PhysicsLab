@@ -1,0 +1,24 @@
+# LaTeX temporary files
+*.aux
+*.log
+*.out
+*.toc
+*.synctex.gz
+*.fls
+*.fdb_latexmk
+*.bbl
+*.blg
+
+# Editor temporary files
+*~
+.#*
+*.swp
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Build/output folders
+build/
+tmp/
+temp/
